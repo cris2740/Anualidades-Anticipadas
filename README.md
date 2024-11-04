@@ -15,4 +15,4 @@ Las funciones disponibles incluyen:
 - Determinación del número de pagos necesarios para alcanzar un valor actual.
 - Cálculo de la tasa de interés necesaria para un valor actual.
 
-Puedes encontrar el archivo de funciones aquí:
+Puedes encontrar el archivo de funciones aquí:[funciones_en_R](https://raw.githubusercontent.com/cris2740/Anualidades-Anticipadas/refs/heads/main/Anualidades_anticipadas.R)
